@@ -1,0 +1,6 @@
+PWD /Users/forrest/Documents/CRAWLAB/Thesis/UL Thesis/EOM
+INPUT /usr/local/texlive/2014/texmf.cnf
+INPUT /usr/local/texlive/2014/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT 2-1.tex
+OUTPUT 38bf1cfbedd68439be8eba85138d51f3/2-1.log
